@@ -1,0 +1,9 @@
+1. htmlspecialchars ++
+
+2. output data in 2 columns ++
+
+3. All what changes have to have possibiliti to change from admin panel++
+
+4. alt="put useful info here"++
+
+    5. multiple tags for gallery++
