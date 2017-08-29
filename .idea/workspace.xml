@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da257c4c-1237-49e8-8a42-eaf0cf32f3f7" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/villa_theme/villa_options.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/counter/view-counter.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/counter/counter.php" afterPath="$PROJECT_DIR$/wp-content/plugins/counter/counter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/villa_theme/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/villa_theme/functions.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,119 +14,153 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="villa.loc" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="counter.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="counter.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/plugins/counter/counter.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="263" column="33" lean-forward="false" selection-start-line="263" selection-start-column="33" selection-end-line="263" selection-end-column="33" />
+            <state relative-caret-position="405">
+              <caret line="288" column="9" lean-forward="true" selection-start-line="288" selection-start-column="9" selection-end-line="288" selection-end-column="9" />
               <folding>
                 <element signature="e#199#1113#0#PHP" expanded="false" />
-                <marker date="1503930974167" expanded="true" signature="3700:3790" ph="INSERT INTO ${$table_name}... " />
-                <marker date="1503930974167" expanded="true" signature="3700:3866" ph="INSERT INTO ${$table_name}... " />
-                <marker date="1503930974167" expanded="true" signature="3700:3910" ph="INSERT INTO ${$table_name}... " />
-                <marker date="1503930974167" expanded="true" signature="3971:4185" ph="CREATE TABLE... ${$table_name}" />
-                <marker date="1503930974167" expanded="true" signature="4560:4593" ph="SELECT * FRO... wp_count_page_views" />
-                <marker date="1503930974167" expanded="true" signature="4560:4602" ph="SELECT * FRO... wp_count_page_views" />
-                <marker date="1503930974167" expanded="true" signature="4560:4610" ph="SELECT * FRO... wp_count_page_views" />
-                <marker date="1503930974167" expanded="true" signature="4560:4622" ph="SELECT * FRO... wp_count_page_views" />
-                <marker date="1503930974167" expanded="true" signature="7808:7854" ph="SELECT * FRO... ${$table_name}" />
-                <marker date="1503930974167" expanded="true" signature="8275:8321" ph="SELECT * FRO... ${$table_name}" />
+                <marker date="1504005252302" expanded="true" signature="3700:3790" ph="INSERT INTO ${$table_name}... " />
+                <marker date="1504005252302" expanded="true" signature="3700:3866" ph="INSERT INTO ${$table_name}... " />
+                <marker date="1504005252302" expanded="true" signature="3971:4185" ph="CREATE TABLE... ${$table_name}" />
+                <marker date="1504005252302" expanded="true" signature="4560:4610" ph="SELECT * FRO... wp_count_page_views" />
+                <marker date="1504005252302" expanded="true" signature="7809:7855" ph="SELECT * FRO... ${$table_name}" />
+                <marker date="1504005252302" expanded="true" signature="8276:8322" ph="SELECT * FRO... ${$table_name}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="archive-about-us.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/villa_theme/archive-about-us.php">
+      <file leaf-file-name="options.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-admin/options.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contact_form.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/villa_theme/contact_form.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5">
-              <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-              <folding>
-                <element signature="e#6#118#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="archive-contact.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/villa_theme/archive-contact.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="96" column="24" lean-forward="true" selection-start-line="96" selection-start-column="24" selection-end-line="96" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="view-counter.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/villa_theme/view-counter.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-              <folding>
-                <marker date="1503929311670" expanded="true" signature="486:542" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="view-counter.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/counter/view-counter.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Counter_ShortCodeLoader.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/counter/Counter_ShortCodeLoader.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-267">
+            <state relative-caret-position="-1938">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Counter_Plugin.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/counter/Counter_Plugin.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1207">
-              <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Counter_OptionsManager.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/counter/Counter_OptionsManager.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1250">
-              <caret line="245" column="0" lean-forward="true" selection-start-line="245" selection-start-column="0" selection-end-line="245" selection-end-column="0" />
               <folding>
-                <marker date="1503911308805" expanded="true" signature="11685:11691" ph=" " />
-                <marker date="1503911308805" expanded="true" signature="11691:11697" ph=" " />
-                <marker date="1503911308805" expanded="true" signature="11697:11703" ph=" " />
-                <marker date="1503911308805" expanded="true" signature="11716:11742" ph="..." />
-                <marker date="1503911308805" expanded="true" signature="12155:12161" ph=" " />
-                <marker date="1503911308805" expanded="true" signature="12161:12167" ph=" " />
-                <marker date="1503911308805" expanded="true" signature="12167:12173" ph=" " />
-                <marker date="1503911308805" expanded="true" signature="12186:12212" ph="..." />
+                <marker date="1484933981000" expanded="true" signature="10060:10109" ph="SELECT * FRO... wp_options" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/villa_theme/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="790">
+              <caret line="332" column="5" lean-forward="true" selection-start-line="332" selection-start-column="5" selection-end-line="332" selection-end-column="5" />
+              <folding>
+                <element signature="e#6#194#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="counter_cleaner.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/counter/counter_cleaner.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="template_engine.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/villa_theme/functions/template_engine.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="count_views_func.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/counter/count_views_func.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="calendar buttons.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/calendar buttons.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="384" column="29" lean-forward="false" selection-start-line="384" selection-start-column="29" selection-end-line="384" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-admin/css/common.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="775" column="4" lean-forward="false" selection-start-line="775" selection-start-column="4" selection-end-line="775" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin-menu-rtl.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-admin/css/admin-menu-rtl.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="499" column="4" lean-forward="false" selection-start-line="499" selection-start-column="4" selection-end-line="499" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="schema.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-admin/includes/schema.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="1013" column="12" lean-forward="false" selection-start-line="1013" selection-start-column="12" selection-end-line="1013" selection-end-column="12" />
+              <folding>
+                <marker date="1491861643000" expanded="true" signature="1730:2027" ph="CREATE TABLE... wp_termmeta" />
+                <marker date="1491861643000" expanded="true" signature="2045:2350" ph="CREATE TABLE... wp_terms" />
+                <marker date="1491861643000" expanded="true" signature="2368:2787" ph="CREATE TABLE... wp_term_taxonomy" />
+                <marker date="1491861643000" expanded="true" signature="2805:3082" ph="CREATE TABLE... wp_term_relationships" />
+                <marker date="1491861643000" expanded="true" signature="3100:3409" ph="CREATE TABLE... wp_commentmeta" />
+                <marker date="1491861643000" expanded="true" signature="3427:4528" ph="CREATE TABLE... wp_comments" />
+                <marker date="1491861643000" expanded="true" signature="4546:5265" ph="CREATE TABLE... wp_links" />
+                <marker date="1491861643000" expanded="true" signature="5283:5568" ph="CREATE TABLE... wp_options" />
+                <marker date="1491861643000" expanded="true" signature="5586:5883" ph="CREATE TABLE... wp_postmeta" />
+                <marker date="1491861643000" expanded="true" signature="5901:7220" ph="CREATE TABLE... wp_posts" />
+                <marker date="1491861643000" expanded="true" signature="7354:8006" ph="CREATE TABLE... wp_users" />
+                <marker date="1491861643000" expanded="true" signature="8078:8813" ph="CREATE TABLE... wp_users" />
+                <marker date="1491861643000" expanded="true" signature="8870:9169" ph="CREATE TABLE... wp_usermeta" />
+                <marker date="1491861643000" expanded="true" signature="9405:10070" ph="CREATE TABLE... wp_blogs" />
+                <marker date="1491861643000" expanded="true" signature="10088:10335" ph="CREATE TABLE... wp_blog_versions" />
+                <marker date="1491861643000" expanded="true" signature="10353:10660" ph="CREATE TABLE... wp_registration_log" />
+                <marker date="1491861643000" expanded="true" signature="10678:10889" ph="CREATE TABLE... wp_site" />
+                <marker date="1491861643000" expanded="true" signature="10907:11186" ph="CREATE TABLE... wp_sitemeta" />
+                <marker date="1491861643000" expanded="true" signature="11204:11907" ph="CREATE TABLE... wp_signups" />
+                <marker date="1491861643000" expanded="true" signature="18043:18112" ph="SELECT optio... wp_options" />
+                <marker date="1491861643000" expanded="true" signature="18550:18622" ph="INSERT INTO wp_options... " />
+                <marker date="1491861643000" expanded="true" signature="20509:20587" ph="DELETE FROM " />
+                <marker date="1491861643000" expanded="true" signature="29529:29569" ph="SELECT id FR... wp_site" />
+                <marker date="1491861643000" expanded="true" signature="34211:34280" ph="INSERT INTO wp_sitemeta... " />
               </folding>
             </state>
           </provider>
@@ -165,6 +201,8 @@
       <find>settingsPage</find>
       <find>назва</find>
       <find>основ</find>
+      <find>Primer</find>
+      <find>insert</find>
     </findStrings>
     <replaceStrings>
       <replace>'</replace>
@@ -193,18 +231,21 @@
         <option value="$PROJECT_DIR$/wp-content/themes/villa_theme/archive-gallery.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/villa_theme/footer.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/villa_theme/header.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/villa_theme/functions.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/villa_theme/archive-home.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/villa_theme/archive-apartments.php" />
         <option value="$PROJECT_DIR$/template/index.html" />
         <option value="$PROJECT_DIR$/wp-content/themes/villa_theme/single-apartments.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/counter/counter.html" />
         <option value="$PROJECT_DIR$/wp-content/themes/villa_theme/functions/template_engine.php" />
-        <option value="$PROJECT_DIR$/wp-content/plugins/counter/view-counter.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/counter/Counter_OptionsManager.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/villa_theme/view-counter.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/villa_theme/ajax_clear_views.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/counter/view-counter.php" />
+        <option value="$PROJECT_DIR$/wp-admin/counter_cleaner.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/counter/counter.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/villa_theme/functions/count_views_func.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/villa_theme/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/counter/count_views_func.php" />
       </list>
     </option>
   </component>
@@ -218,7 +259,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1378" />
+    <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -237,8 +278,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -279,74 +318,14 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="villa.loc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="villa.loc" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="villa_theme" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="villa.loc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="villa.loc" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="plugins" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="villa.loc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="villa.loc" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plugins" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="counter" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -363,6 +342,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\villa.loc\wp-content\plugins\counter" />
       <recent name="C:\OpenServer\domains\villa.loc\wp-content\themes\villa_theme" />
     </key>
   </component>
@@ -475,33 +455,43 @@
       <workItem from="1502058326459" duration="1519000" />
       <workItem from="1502099019188" duration="11787000" />
       <workItem from="1503910981164" duration="17758000" />
+      <workItem from="1503999006098" duration="6536000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81388000" />
+    <option name="totallyTimeSpent" value="87924000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20190896" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20131771" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24963397" sideWeight="0.49369085" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24963397" sideWeight="0.50630915" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -519,77 +509,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/villa_theme/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/villa_theme/archive-home.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3247">
-          <caret line="191" column="6" lean-forward="true" selection-start-line="118" selection-start-column="4" selection-end-line="191" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/villa_theme/archive-gallery.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1887">
-          <caret line="111" column="18" lean-forward="false" selection-start-line="111" selection-start-column="18" selection-end-line="111" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/villa_theme/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2482">
-          <caret line="146" column="37" lean-forward="false" selection-start-line="146" selection-start-column="25" selection-end-line="146" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/villa_theme/archive-apartments.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="57" lean-forward="false" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/villa_theme/archive-contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1904">
-          <caret line="112" column="37" lean-forward="true" selection-start-line="112" selection-start-column="37" selection-end-line="112" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/villa_theme/contact_form.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="44" lean-forward="true" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/villa_theme/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/villa_theme/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -644,7 +563,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -652,7 +570,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="53" lean-forward="false" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -660,7 +577,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -668,7 +584,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -684,7 +599,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="36" column="31" lean-forward="false" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -707,7 +621,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -747,7 +660,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -763,18 +675,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/counter/counter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/counter/counter.html" />
     <entry file="file://$PROJECT_DIR$/wp-includes/template.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
@@ -783,32 +687,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/villa_theme/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-187">
-          <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/villa_theme/functions/template_engine.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="39" lean-forward="true" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
-          <folding>
-            <element signature="e#6#307#0#PHP" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/villa_theme/villa_options.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/villa_theme/villa_options.php" />
     <entry file="file://$PROJECT_DIR$/wp-content/themes/villa_theme/archive-apartments.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="185">
@@ -843,7 +722,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/counter/Counter_ShortCodeLoader.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-267">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -851,16 +730,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/counter/Counter_Plugin.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1207">
-          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        <state relative-caret-position="221">
+          <caret line="13" column="21" lean-forward="false" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/counter/Counter_OptionsManager.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1250">
-          <caret line="245" column="0" lean-forward="true" selection-start-line="245" selection-start-column="0" selection-end-line="245" selection-end-column="0" />
+        <state relative-caret-position="3859">
+          <caret line="245" column="0" lean-forward="false" selection-start-line="245" selection-start-column="0" selection-end-line="245" selection-end-column="0" />
           <folding>
             <marker date="1503911308805" expanded="true" signature="11685:11691" ph=" " />
             <marker date="1503911308805" expanded="true" signature="11691:11697" ph=" " />
@@ -874,26 +753,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/counter/view-counter.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/villa_theme/archive-contact.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="96" column="24" lean-forward="true" selection-start-line="96" selection-start-column="24" selection-end-line="96" selection-end-column="24" />
+        <state relative-caret-position="1632">
+          <caret line="96" column="24" lean-forward="false" selection-start-line="96" selection-start-column="24" selection-end-line="96" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/villa_theme/contact_form.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5">
-          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        <state relative-caret-position="51">
+          <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
           <folding>
             <element signature="e#6#118#0#PHP" expanded="true" />
           </folding>
@@ -908,40 +779,152 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/villa_theme/ajax_clear_views.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/villa_theme/ajax_clear_views.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/villa_theme/view-counter.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="340">
+          <caret line="20" column="20" lean-forward="false" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/villa_theme/view-counter.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/counter/view-counter.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        <state relative-caret-position="0">
+          <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/options.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1938">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1503929311670" expanded="true" signature="486:542" ph="..." />
+            <marker date="1484933981000" expanded="true" signature="10060:10109" ph="SELECT * FRO... wp_options" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/counter/counter.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="263" column="33" lean-forward="false" selection-start-line="263" selection-start-column="33" selection-end-line="263" selection-end-column="33" />
+        <state relative-caret-position="405">
+          <caret line="288" column="9" lean-forward="true" selection-start-line="288" selection-start-column="9" selection-end-line="288" selection-end-column="9" />
           <folding>
             <element signature="e#199#1113#0#PHP" expanded="false" />
-            <marker date="1503930974167" expanded="true" signature="3700:3790" ph="INSERT INTO ${$table_name}... " />
-            <marker date="1503930974167" expanded="true" signature="3700:3866" ph="INSERT INTO ${$table_name}... " />
-            <marker date="1503930974167" expanded="true" signature="3700:3910" ph="INSERT INTO ${$table_name}... " />
-            <marker date="1503930974167" expanded="true" signature="3971:4185" ph="CREATE TABLE... ${$table_name}" />
-            <marker date="1503930974167" expanded="true" signature="4560:4593" ph="SELECT * FRO... wp_count_page_views" />
-            <marker date="1503930974167" expanded="true" signature="4560:4602" ph="SELECT * FRO... wp_count_page_views" />
-            <marker date="1503930974167" expanded="true" signature="4560:4610" ph="SELECT * FRO... wp_count_page_views" />
-            <marker date="1503930974167" expanded="true" signature="4560:4622" ph="SELECT * FRO... wp_count_page_views" />
-            <marker date="1503930974167" expanded="true" signature="7808:7854" ph="SELECT * FRO... ${$table_name}" />
-            <marker date="1503930974167" expanded="true" signature="8275:8321" ph="SELECT * FRO... ${$table_name}" />
+            <marker date="1504005252302" expanded="true" signature="3700:3790" ph="INSERT INTO ${$table_name}... " />
+            <marker date="1504005252302" expanded="true" signature="3700:3866" ph="INSERT INTO ${$table_name}... " />
+            <marker date="1504005252302" expanded="true" signature="3971:4185" ph="CREATE TABLE... ${$table_name}" />
+            <marker date="1504005252302" expanded="true" signature="4560:4610" ph="SELECT * FRO... wp_count_page_views" />
+            <marker date="1504005252302" expanded="true" signature="7809:7855" ph="SELECT * FRO... ${$table_name}" />
+            <marker date="1504005252302" expanded="true" signature="8276:8322" ph="SELECT * FRO... ${$table_name}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/counter_cleaner.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/villa_theme/functions/count_views_func.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="50" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/villa_theme/functions/template_engine.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/villa_theme/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="790">
+          <caret line="332" column="5" lean-forward="true" selection-start-line="332" selection-start-column="5" selection-end-line="332" selection-end-column="5" />
+          <folding>
+            <element signature="e#6#194#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/counter/counter_cleaner.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/counter/count_views_func.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/calendar buttons.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="384" column="29" lean-forward="false" selection-start-line="384" selection-start-column="29" selection-end-line="384" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/css/common.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="775" column="4" lean-forward="false" selection-start-line="775" selection-start-column="4" selection-end-line="775" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/css/admin-menu-rtl.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="499" column="4" lean-forward="false" selection-start-line="499" selection-start-column="4" selection-end-line="499" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/includes/schema.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="1013" column="12" lean-forward="false" selection-start-line="1013" selection-start-column="12" selection-end-line="1013" selection-end-column="12" />
+          <folding>
+            <marker date="1491861643000" expanded="true" signature="1730:2027" ph="CREATE TABLE... wp_termmeta" />
+            <marker date="1491861643000" expanded="true" signature="2045:2350" ph="CREATE TABLE... wp_terms" />
+            <marker date="1491861643000" expanded="true" signature="2368:2787" ph="CREATE TABLE... wp_term_taxonomy" />
+            <marker date="1491861643000" expanded="true" signature="2805:3082" ph="CREATE TABLE... wp_term_relationships" />
+            <marker date="1491861643000" expanded="true" signature="3100:3409" ph="CREATE TABLE... wp_commentmeta" />
+            <marker date="1491861643000" expanded="true" signature="3427:4528" ph="CREATE TABLE... wp_comments" />
+            <marker date="1491861643000" expanded="true" signature="4546:5265" ph="CREATE TABLE... wp_links" />
+            <marker date="1491861643000" expanded="true" signature="5283:5568" ph="CREATE TABLE... wp_options" />
+            <marker date="1491861643000" expanded="true" signature="5586:5883" ph="CREATE TABLE... wp_postmeta" />
+            <marker date="1491861643000" expanded="true" signature="5901:7220" ph="CREATE TABLE... wp_posts" />
+            <marker date="1491861643000" expanded="true" signature="7354:8006" ph="CREATE TABLE... wp_users" />
+            <marker date="1491861643000" expanded="true" signature="8078:8813" ph="CREATE TABLE... wp_users" />
+            <marker date="1491861643000" expanded="true" signature="8870:9169" ph="CREATE TABLE... wp_usermeta" />
+            <marker date="1491861643000" expanded="true" signature="9405:10070" ph="CREATE TABLE... wp_blogs" />
+            <marker date="1491861643000" expanded="true" signature="10088:10335" ph="CREATE TABLE... wp_blog_versions" />
+            <marker date="1491861643000" expanded="true" signature="10353:10660" ph="CREATE TABLE... wp_registration_log" />
+            <marker date="1491861643000" expanded="true" signature="10678:10889" ph="CREATE TABLE... wp_site" />
+            <marker date="1491861643000" expanded="true" signature="10907:11186" ph="CREATE TABLE... wp_sitemeta" />
+            <marker date="1491861643000" expanded="true" signature="11204:11907" ph="CREATE TABLE... wp_signups" />
+            <marker date="1491861643000" expanded="true" signature="18043:18112" ph="SELECT optio... wp_options" />
+            <marker date="1491861643000" expanded="true" signature="18550:18622" ph="INSERT INTO wp_options... " />
+            <marker date="1491861643000" expanded="true" signature="20509:20587" ph="DELETE FROM " />
+            <marker date="1491861643000" expanded="true" signature="29529:29569" ph="SELECT id FR... wp_site" />
+            <marker date="1491861643000" expanded="true" signature="34211:34280" ph="INSERT INTO wp_sitemeta... " />
           </folding>
         </state>
       </provider>

@@ -7,14 +7,14 @@
  * @param bool $bool  Флаг, нужно ли прервать дальнейшее выполнение программы
  * @return array
  */
-function dd($array = [],$bool = true){
-	echo '<pre>';
-	print_r($array);
-	echo '</pre>';
-	if($bool){
-		exit;
-	}
-}
+//function dd($array = [],$bool = true){
+//	echo '<pre>';
+//	print_r($array);
+//	echo '</pre>';
+//	if($bool){
+//		exit;
+//	}
+//}
 
 function hsc($string){
     return htmlspecialchars($string);
@@ -161,6 +161,10 @@ function create_form_type() {
 		)
 	);
 }
+
+
+// custom settings
+
 function true_options() {
 	global $true_page;
 	add_options_page( 'Параметры', 'Параметры', 'manage_options', $true_page, 'true_option_page');

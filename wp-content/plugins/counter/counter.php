@@ -211,7 +211,7 @@ if ( ! function_exists( 'smk_get_template_part' ) ) {
 
 add_action( 'admin_menu', 'add_plugin_page' );
 function add_plugin_page() {
-	add_options_page( 'Настройки Primer', 'Primer', 'manage_options', 'primer_slug', 'primer_options_page_output' );
+	add_options_page( 'Свойства Counter', 'Counter', 'manage_options', 'primer_slug', 'primer_options_page_output' );
 }
 
 function primer_options_page_output() {
@@ -289,6 +289,4 @@ function fill_primer_field2() {
     </ul>
 	<?php
 }
-
-
-
+include('count_views_func.php');
